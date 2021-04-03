@@ -85,7 +85,7 @@ score = 0
 }
 
 function draw() {
-background("black");
+background("white");
 
   //var message = "Hello! this game has been made by Soham"
   //console.log(message)
